@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://octoboard.io/favicon.svg" alt="OctoBoard" width="56" />
+<img src="https://octoboard.io/logo.png" alt="OctoBoard" width="120" />
 
 # OctoBoard
 
